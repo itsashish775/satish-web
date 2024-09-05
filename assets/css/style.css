@@ -1,0 +1,278 @@
+.header_section .website_logo {
+  width: 270px;
+}
+
+.header_section .website_logo a img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.header_section .offcanvas-header button {
+  border: none;
+  background-color: white;
+}
+
+.header_section .accordion-button.collapsed.active {
+  font-weight: 600;
+}
+
+.header_section .modal-backdrop.fade.show {
+  background: #ff00002e;
+}
+
+.header_section .custom_nav ul li a {
+  font-size: 21px;
+  color: #151515;
+  font-weight: 400 !important;
+}
+
+.header_section .navbar_btns img {
+  height: 31px;
+  width: 31px;
+}
+
+.header_section .nav-link.active {
+  font-weight: 600 !important;
+}
+
+.header_section {
+  width: 100%;
+  padding: 30px 0;
+}
+
+.header_section .accordion-item {
+  border: none;
+}
+
+.header_section .accordion-button {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.header_section .accordion-button:focus {
+  color: #151515;
+  font-weight: 500;
+  box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 0%);
+}
+
+.header_section .menu_listing ul li a {
+  color: #151515;
+  font-size: 15px;
+}
+
+.header_section .navbar .fa.fa-bars {
+  background-color: white;
+  font-size: 25px;
+  color: #151515;
+}
+
+.header_section .close_btn {
+  background-color: #d3d3d352;
+  font-size: 30px;
+  font-weight: 300 !important;
+  color: #151515;
+}
+
+.header_section .close_btn img {
+  width: 35px;
+  background-color: #d3d3d352;
+  border-radius: 3px;
+  padding: 3px;
+}
+
+.feedback p span {
+  color: #151515;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+/* ========== cour collection section ======== */
+
+.our_collection {
+  background: #f7b79d;
+  padding-bottom: 120px;
+  margin-top: 200px;
+}
+
+.our_collection .card {
+  width: 100%;
+ 
+  border: none;
+  height: 100%;
+}
+
+.our_collection .card  .text-center {
+
+  background-color: white;
+  padding: 5px;
+}
+
+.our_collection .ring_img img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+
+
+.our_collection .card h2 {
+  font-size: 20px;
+}
+
+.our_collection .card p {
+  font-size: 16px;
+}
+
+
+/* ========== keep_touch_section Start =========== */
+
+.keep_touch_section {
+  margin-top: 120px;
+  padding: 40px 0;
+}
+
+.keep_touch_section p {
+  font-size: 30px;
+  line-height: 36.57px;
+  margin-bottom: 85px;
+}
+
+.keep_touch_section .inner {
+  overflow: hidden;
+}
+
+.keep_touch_section .inner img {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+.keep_touch_section .inner img:hover {
+  transition: 0.3s ease all;
+  transform: scale(1.1);
+  overflow: hidden;
+}
+
+.keep_touch_section .sign_up input {
+  border: none;
+  border-bottom: 1px solid #c2c2c2;
+  padding: 10px 0;
+  font-size: 20px;
+  color: #151515;
+}
+
+.keep_touch_section .sign_up input::placeholder {
+  color: #929292;
+
+}
+
+.keep_touch_section .border_bottom {
+  border-bottom: 1px solid #c2c2c2;
+}
+
+
+
+
+.slider_cards_section .mySwiper {
+
+  padding-bottom: 100px !important;
+}
+
+.slider_cards_section .collection .content {
+  max-width: 400px;
+  width: 100%;
+
+  background-color: white;
+  border: 1px solid #DFDFDF;
+  overflow: hidden;
+}
+
+.slider_cards_section .card_txt {
+
+  padding: 10px 0;
+  border-top: 1px solid #DFDFDF;
+
+}
+
+.slider_cards_section .card_txt h3 {
+
+  font-size: 28px;
+  margin-bottom: 0;
+}
+
+.slider_cards_section .card_txt p {
+
+  font-size: 14px;
+  color: #F7B79D;
+}
+
+.slider_cards_section .slide_img {
+
+  width: 100%;
+}
+
+.slider_cards_section .slide_img img {
+
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.slider_cards_section .swiper-pagination span {
+
+  height: 20px;
+  width: 20px;
+}
+
+.slider_cards_section .swiper-pagination-bullet.swiper-pagination-bullet-active {
+
+  background-color: #929292;
+
+
+}
+
+
+/* ========== keep_touch_section End =========== */
+
+.footer_section {
+  background: #f9f9f9;
+  margin-top: 60px;
+  padding: 30px 0;
+}
+
+.footer_section p {
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 80px;
+  padding-bottom: 70px;
+}
+
+.footer_section .border_bottom {
+  border-bottom: 1px solid #c2c2c2;
+}
+
+.footer_section .foot_links ul li a {
+  color: #929292;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.footer_section .copy_right p {
+  font-size: 16px;
+  padding: unset;
+}
+
+.footer_section .copy_right p a {
+  color: #929292;
+  font-weight: 500;
+}
+
+.top_compaines .card {
+  
+  
+  border: none;
+  background-color: unset;
+}
+
+
